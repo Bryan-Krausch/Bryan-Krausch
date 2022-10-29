@@ -32,4 +32,6 @@
   ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
-⚡ GitHub Stats
+## ⚡ GitHub Stats
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Bryan-Krausch&show_icons=true&count_private=true&theme=gruvbox" />
